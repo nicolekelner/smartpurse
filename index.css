@@ -1,0 +1,77 @@
+
+body{font-family: 'Lato', sans-serif;
+margin:0px;}
+
+html{padding:none;}
+
+.navbar{height:120px;
+width:100%;
+background-color:white;
+position: fixed;
+padding-top: 0px;
+
+}
+
+.logo {content:url('logo.png');
+margin:auto;
+vertical-align: center;
+padding-top:20px;
+padding-bottom: 20px;
+
+
+}
+
+
+
+li{display:inline-block;
+margin-top:2rem;
+text-align: center;
+padding:2.8rem;
+padding-top: 0;
+}
+
+.photos {margin:auto;
+padding-top:120px;}
+
+.press {content:url('vogue.png');
+margin:auto;
+}
+
+.press {width:80%;
+height:80%;
+padding-top:40px;}
+
+.meetsmartpurse {margin-left:auto;
+margin-right: auto;
+display:block;
+padding-top: 5rem;}
+
+h1 {text-align:center;
+line-height: .5em;
+font-size: 3em}
+
+h3 {text-align:center;
+
+line-height: 2rem;}
+
+button {text-align:center;
+
+background-color: #52AFA6;
+border:none;
+border-radius: 1rem;
+margin-left:auto;
+margin-right: auto;
+display:block;
+width:20rem;
+height:4rem;
+font-size: 2em;
+color:white;
+margin-bottom: 5rem;
+
+}
+
+
+button:hover{background-color: #6CD1C7}
+
+a {text-decoration: none;
+color:white;}
